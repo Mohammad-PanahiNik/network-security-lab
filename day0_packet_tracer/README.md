@@ -35,9 +35,6 @@ PC4: 192.168.20.2
 Gateway: 192.168.20.254
 
 Router Setup:
-bash
-Copy
-Edit
 enable
 configure terminal
 
@@ -62,9 +59,6 @@ Gaining hands-on experience with Packet Tracer
 
 Preparing for advanced routing topics in the CCNA journey
 
-yaml
-Copy
-Edit
 
 
 # 🧠 تمرین شماره ۱ Packet Tracer | Two Networks via Router
